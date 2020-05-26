@@ -1,0 +1,1025 @@
+// !$*UTF8*$!
+{
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = ED319EE10F692FA4001DA0E0 /* NeuralEdge */;
+		activeTarget = 8D1107260486CEB800E47090 /* NeuralEdge */;
+		addToTargets = (
+			8D1107260486CEB800E47090 /* NeuralEdge */,
+		);
+		breakpoints = (
+			ED0EBAC60F6FF00800625051 /* FileTableDataSource.m:86 */,
+			ED84C6FE0F7A641400DE6024 /* BrightnessSegmentation.m:50 */,
+			ED84C7000F7A641E00DE6024 /* BrightnessSegmentation.m:50 */,
+			EDB7CE620F7C26A700FC9588 /* BrightnessSegmentation.m:109 */,
+			EDDB64A30FA872C1008E3BBC /* StartController.m:34 */,
+			EDDB64D40FA87717008E3BBC /* BrightnessSegmentation.m:76 */,
+			EDDB64E30FA87772008E3BBC /* BrightnessSegmentation.m:105 */,
+			EDDB64E50FA87787008E3BBC /* BrightnessSegmentation.m:122 */,
+			EDDB64E80FA877A1008E3BBC /* BrightnessSegmentation.m:113 */,
+			EDDB64EC0FA877B9008E3BBC /* BrightnessSegmentation.m:112 */,
+			EDDB65040FA879F4008E3BBC /* BrightnessSegmentation.m:236 */,
+			EDDB65120FA88171008E3BBC /* BrightnessSegmentation.m:32 */,
+			EDDB65200FA88227008E3BBC /* BrightnessSegmentation.m:111 */,
+			EDDB65450FA887EE008E3BBC /* StartController.m:34 */,
+			EDDB659F0FA88D75008E3BBC /* BrightnessSegmentation.m:48 */,
+			EDDB65C80FA89134008E3BBC /* BrightnessSegmentation.m:151 */,
+			EDDB65D20FA891C8008E3BBC /* BrightnessSegmentation.m:185 */,
+			EDDB65D80FA891DA008E3BBC /* BrightnessSegmentation.m:208 */,
+			EDDB65DA0FA891E5008E3BBC /* BrightnessSegmentation.m:215 */,
+			EDDB65E00FA89239008E3BBC /* BrightnessSegmentation.m:217 */,
+			EDDB65E20FA8923B008E3BBC /* BrightnessSegmentation.m:214 */,
+			EDDB65F10FA893A7008E3BBC /* BrightnessSegmentation.m:153 */,
+			EDA7BB9F0FA9D42700C0DB8E /* BrightnessSegmentation.m:49 */,
+			EDA7BBDB0FA9DAFD00C0DB8E /* BrightnessSegmentation.m:23 */,
+			EDA7BC2E0FA9E8A100C0DB8E /* BrightnessSegmentation.m:226 */,
+			EDA7BC5B0FA9EE2500C0DB8E /* StartController.m:42 */,
+			EDA7BC640FA9EFC700C0DB8E /* StartController.m:19 */,
+		);
+		codeSenseManager = ED319EF00F692FA7001DA0E0 /* Code sense */;
+		executables = (
+			ED319EE10F692FA4001DA0E0 /* NeuralEdge */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = 1;
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					795,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 274184572;
+			PBXWorkspaceStateSaveDate = 274184572;
+		};
+		perUserProjectItems = {
+			ED1294471057BA3D00C821AF /* PBXTextBookmark */ = ED1294471057BA3D00C821AF /* PBXTextBookmark */;
+			ED1294481057BA3D00C821AF /* XCBuildMessageTextBookmark */ = ED1294481057BA3D00C821AF /* XCBuildMessageTextBookmark */;
+			ED1294491057BA3D00C821AF /* PBXTextBookmark */ = ED1294491057BA3D00C821AF /* PBXTextBookmark */;
+			ED2A752E0FD532C8005538E9 /* PBXTextBookmark */ = ED2A752E0FD532C8005538E9 /* PBXTextBookmark */;
+			ED2A755F0FD53902005538E9 /* PBXTextBookmark */ = ED2A755F0FD53902005538E9 /* PBXTextBookmark */;
+			ED2A757D0FD539EA005538E9 /* PBXTextBookmark */ = ED2A757D0FD539EA005538E9 /* PBXTextBookmark */;
+			ED2A75BF0FD5424A005538E9 /* PBXTextBookmark */ = ED2A75BF0FD5424A005538E9 /* PBXTextBookmark */;
+			ED2A75C60FD54334005538E9 /* PBXTextBookmark */ = ED2A75C60FD54334005538E9 /* PBXTextBookmark */;
+			ED2A75C90FD54334005538E9 /* PBXTextBookmark */ = ED2A75C90FD54334005538E9 /* PBXTextBookmark */;
+			ED2A75CA0FD54334005538E9 /* PBXTextBookmark */ = ED2A75CA0FD54334005538E9 /* PBXTextBookmark */;
+			ED2A75DF0FD55AC3005538E9 /* PBXTextBookmark */ = ED2A75DF0FD55AC3005538E9 /* PBXTextBookmark */;
+			ED93EA1F0FC5CB2500518724 /* PBXTextBookmark */ = ED93EA1F0FC5CB2500518724 /* PBXTextBookmark */;
+			ED93EA360FC5CCC600518724 /* PBXTextBookmark */ = ED93EA360FC5CCC600518724 /* PBXTextBookmark */;
+			ED9FF3330FDFF0C900D30A22 /* PBXTextBookmark */ = ED9FF3330FDFF0C900D30A22 /* PBXTextBookmark */;
+			ED9FF3340FDFF0C900D30A22 /* PBXTextBookmark */ = ED9FF3340FDFF0C900D30A22 /* PBXTextBookmark */;
+			EDCBE5B70FCAB7FF00355039 /* PBXTextBookmark */ = EDCBE5B70FCAB7FF00355039 /* PBXTextBookmark */;
+			EDCBE5ED0FCABAB300355039 /* PBXTextBookmark */ = EDCBE5ED0FCABAB300355039 /* PBXTextBookmark */;
+			EDCBE5EE0FCABAB300355039 /* PBXTextBookmark */ = EDCBE5EE0FCABAB300355039 /* PBXTextBookmark */;
+			EDCBE5F00FCABAB300355039 /* PBXTextBookmark */ = EDCBE5F00FCABAB300355039 /* PBXTextBookmark */;
+			EDD723DD0F80F25F00F422A9 /* PBXTextBookmark */ = EDD723DD0F80F25F00F422A9 /* PBXTextBookmark */;
+		};
+		sourceControlManager = ED319EEF0F692FA7001DA0E0 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {951, 285}}";
+			sepNavSelRange = "{198, 0}";
+			sepNavVisRange = "{32, 227}";
+		};
+	};
+	8D1107260486CEB800E47090 /* NeuralEdge */ = {
+		activeExec = 0;
+		executables = (
+			ED319EE10F692FA4001DA0E0 /* NeuralEdge */,
+		);
+	};
+	ED0EBAC60F6FF00800625051 /* FileTableDataSource.m:86 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = EDBD76F60F6A924F00BD843C /* FileTableDataSource.m */;
+		functionName = "-tableView:setObjectValue:forTableColumn:row:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 86;
+		location = NeuralEdge;
+		modificationTime = 266334340.124123;
+		originalNumberOfMultipleMatches = 0;
+		state = 2;
+	};
+	ED1294471057BA3D00C821AF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = ED2F1E6C0F73EBC500BB6F2B /* StartController.m */;
+		name = "StartController.m: 35";
+		rLen = 0;
+		rLoc = 823;
+		rType = 0;
+		vrLen = 548;
+		vrLoc = 646;
+	};
+	ED1294481057BA3D00C821AF /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Potential leak of an object allocated on line 33 and stored into 'II'";
+		fRef = EDEE35BC0F7280E500E2CA39 /* NeuralNetworkEdgeDetector.m */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 36;
+		rType = 1;
+	};
+	ED1294491057BA3D00C821AF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EDEE35BC0F7280E500E2CA39 /* NeuralNetworkEdgeDetector.m */;
+		name = "NeuralNetworkEdgeDetector.m: 37";
+		rLen = 0;
+		rLoc = 1126;
+		rType = 0;
+		vrLen = 839;
+		vrLoc = 300;
+	};
+	ED2676F60F8F559C00664C8E /* ImageInfo.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {973, 589}}";
+			sepNavSelRange = "{143, 0}";
+			sepNavVisRange = "{20, 622}";
+		};
+	};
+	ED2676F70F8F559C00664C8E /* ImageInfo.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {973, 1805}}";
+			sepNavSelRange = "{1424, 0}";
+			sepNavVisRange = "{1106, 263}";
+			sepNavWindowFrame = "{{193, 135}, {1186, 737}}";
+		};
+	};
+	ED2A752E0FD532C8005538E9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EDEE35C00F72835B00E2CA39 /* BrightnessSegmentation.h */;
+		name = "BrightnessSegmentation.h: 21";
+		rLen = 41;
+		rLoc = 431;
+		rType = 0;
+		vrLen = 709;
+		vrLoc = 0;
+	};
+	ED2A755F0FD53902005538E9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EDEE35BB0F7280E500E2CA39 /* NeuralNetworkEdgeDetector.h */;
+		name = "NeuralNetworkEdgeDetector.h: 25";
+		rLen = 0;
+		rLoc = 717;
+		rType = 0;
+		vrLen = 748;
+		vrLoc = 0;
+	};
+	ED2A757D0FD539EA005538E9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EDBD76F60F6A924F00BD843C /* FileTableDataSource.m */;
+		name = "FileTableDataSource.m: 46";
+		rLen = 0;
+		rLoc = 751;
+		rType = 0;
+		vrLen = 473;
+		vrLoc = 539;
+	};
+	ED2A75BF0FD5424A005538E9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = ED2676F70F8F559C00664C8E /* ImageInfo.m */;
+		name = "ImageInfo.m: 76";
+		rLen = 0;
+		rLoc = 1424;
+		rType = 0;
+		vrLen = 263;
+		vrLoc = 1106;
+	};
+	ED2A75C60FD54334005538E9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EDADE0490FBAC839006563C1 /* ThresholdNeuron.m */;
+		name = "ThresholdNeuron.m: 37";
+		rLen = 0;
+		rLoc = 382;
+		rType = 0;
+		vrLen = 231;
+		vrLoc = 280;
+	};
+	ED2A75C90FD54334005538E9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EDADE0480FBAC839006563C1 /* ThresholdNeuron.h */;
+		name = "ThresholdNeuron.h: 16";
+		rLen = 0;
+		rLoc = 256;
+		rType = 0;
+		vrLen = 363;
+		vrLoc = 0;
+	};
+	ED2A75CA0FD54334005538E9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EDCC85810FB34C5400713E84 /* NeuronsLayer.h */;
+		name = "NeuronsLayer.h: 21";
+		rLen = 129;
+		rLoc = 473;
+		rType = 0;
+		vrLen = 609;
+		vrLoc = 0;
+	};
+	ED2A75DF0FD55AC3005538E9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EDCC85820FB34C5400713E84 /* NeuronsLayer.m */;
+		name = "NeuronsLayer.m: 303";
+		rLen = 0;
+		rLoc = 8281;
+		rType = 0;
+		vrLen = 745;
+		vrLoc = 3593;
+	};
+	ED2F1E6B0F73EBC500BB6F2B /* StartController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {973, 596}}";
+			sepNavSelRange = "{659, 0}";
+			sepNavVisRange = "{40, 637}";
+			sepNavWindowFrame = "{{328, 109}, {943, 722}}";
+		};
+	};
+	ED2F1E6C0F73EBC500BB6F2B /* StartController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {973, 1275}}";
+			sepNavSelRange = "{823, 0}";
+			sepNavVisRange = "{646, 548}";
+			sepNavWindowFrame = "{{152, 152}, {1137, 630}}";
+		};
+	};
+	ED319EE10F692FA4001DA0E0 /* NeuralEdge */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = NeuralEdge;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+			$cs = 1;
+			$ds = 1;
+			$eax = 1;
+			$ebp = 1;
+			$ebx = 1;
+			$ecx = 1;
+			$edi = 1;
+			$edx = 1;
+			$eflags = 1;
+			$eip = 1;
+			$es = 1;
+			$esi = 1;
+			$esp = 1;
+			$gs = 1;
+			$mm0 = 1;
+			$mm1 = 1;
+			$mm2 = 1;
+			$mm3 = 1;
+			$mm4 = 1;
+			$mm5 = 1;
+			$mm6 = 1;
+			$mm7 = 1;
+			$mxcsr = 1;
+			$ss = 1;
+			$xmm0 = 1;
+			$xmm1 = 1;
+			$xmm2 = 1;
+			$xmm3 = 1;
+			$xmm4 = 1;
+			$xmm5 = 1;
+			$xmm6 = 1;
+			$xmm7 = 1;
+		};
+	};
+	ED319EEF0F692FA7001DA0E0 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	ED319EF00F692FA7001DA0E0 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	ED84C6FE0F7A641400DE6024 /* BrightnessSegmentation.m:50 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = EDEE35C10F72835B00E2CA39 /* BrightnessSegmentation.m */;
+		functionName = "-testFullImage:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 50;
+		modificationTime = 266334340.124164;
+		originalNumberOfMultipleMatches = 0;
+		state = 2;
+	};
+	ED84C7000F7A641E00DE6024 /* BrightnessSegmentation.m:50 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+			ED84C7050F7A644B00DE6024 /* XCBreakpointSoundAction */,
+		);
+		breakpointStyle = 0;
+		comments = "Sound out and auto-continue.";
+		continueAfterActions = 1;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = EDEE35C10F72835B00E2CA39 /* BrightnessSegmentation.m */;
+		functionName = "-testFullImage:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 50;
+		location = NeuralEdge;
+		modificationTime = 266334340.124349;
+		originalNumberOfMultipleMatches = 0;
+		state = 2;
+	};
+	ED84C7050F7A644B00DE6024 /* XCBreakpointSoundAction */ = {
+		isa = XCBreakpointSoundAction;
+		fallbackIsa = XCBreakpointAction;
+		sound = Tink;
+		useDebuggerSideImplementation = 0;
+	};
+	ED93EA1F0FC5CB2500518724 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EDEE35D70F7288E200E2CA39 /* BrightnessNeuron.h */;
+		name = "BrightnessNeuron.h: 15";
+		rLen = 100;
+		rLoc = 248;
+		rType = 0;
+		vrLen = 354;
+		vrLoc = 0;
+	};
+	ED93EA360FC5CCC600518724 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = ED2676F60F8F559C00664C8E /* ImageInfo.h */;
+		name = "ImageInfo.h: 8";
+		rLen = 0;
+		rLoc = 143;
+		rType = 0;
+		vrLen = 622;
+		vrLoc = 20;
+	};
+	ED9FF3330FDFF0C900D30A22 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EDEE35C10F72835B00E2CA39 /* BrightnessSegmentation.m */;
+		name = "BrightnessSegmentation.m: 90";
+		rLen = 0;
+		rLoc = 2159;
+		rType = 0;
+		vrLen = 642;
+		vrLoc = 1716;
+	};
+	ED9FF3340FDFF0C900D30A22 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = ED2F1E6B0F73EBC500BB6F2B /* StartController.h */;
+		name = "StartController.h: 28";
+		rLen = 0;
+		rLoc = 659;
+		rType = 0;
+		vrLen = 637;
+		vrLoc = 40;
+	};
+	EDA7BB9F0FA9D42700C0DB8E /* BrightnessSegmentation.m:49 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = EDEE35C10F72835B00E2CA39 /* BrightnessSegmentation.m */;
+		functionName = "-segmentation:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 49;
+		location = NeuralEdge;
+		modificationTime = 266334340.125935;
+		originalNumberOfMultipleMatches = 0;
+		state = 2;
+	};
+	EDA7BBDB0FA9DAFD00C0DB8E /* BrightnessSegmentation.m:23 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = EDEE35C10F72835B00E2CA39 /* BrightnessSegmentation.m */;
+		functionName = "-initWithWindowSize:andSegmentsCount:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 23;
+		location = NeuralEdge;
+		modificationTime = 266334340.126016;
+		originalNumberOfMultipleMatches = 0;
+		state = 2;
+	};
+	EDA7BC2E0FA9E8A100C0DB8E /* BrightnessSegmentation.m:226 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = EDEE35C10F72835B00E2CA39 /* BrightnessSegmentation.m */;
+		functionName = "-trainNetwork:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 226;
+		location = NeuralEdge;
+		modificationTime = 266334340.126098;
+		originalNumberOfMultipleMatches = 0;
+		state = 2;
+	};
+	EDA7BC5B0FA9EE2500C0DB8E /* StartController.m:42 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = ED2F1E6C0F73EBC500BB6F2B /* StartController.m */;
+		functionName = "-trainNetwork:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 42;
+		location = NeuralEdge;
+		modificationTime = 266334349.785366;
+		originalNumberOfMultipleMatches = 0;
+		state = 1;
+	};
+	EDA7BC640FA9EFC700C0DB8E /* StartController.m:19 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = ED2F1E6C0F73EBC500BB6F2B /* StartController.m */;
+		functionName = "-init";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 19;
+		location = NeuralEdge;
+		modificationTime = 266334349.835467;
+		originalNumberOfMultipleMatches = 0;
+		state = 1;
+	};
+	EDADE0480FBAC839006563C1 /* ThresholdNeuron.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {973, 507}}";
+			sepNavSelRange = "{256, 0}";
+			sepNavVisRange = "{0, 363}";
+		};
+	};
+	EDADE0490FBAC839006563C1 /* ThresholdNeuron.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {973, 912}}";
+			sepNavSelRange = "{382, 0}";
+			sepNavVisRange = "{280, 231}";
+			sepNavWindowFrame = "{{15, 136}, {1186, 737}}";
+		};
+	};
+	EDB7CE620F7C26A700FC9588 /* BrightnessSegmentation.m:109 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = EDEE35C10F72835B00E2CA39 /* BrightnessSegmentation.m */;
+		functionName = "-testFullImage:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 109;
+		location = NeuralEdge;
+		modificationTime = 266334340.124456;
+		originalNumberOfMultipleMatches = 0;
+		state = 2;
+	};
+	EDBD76F50F6A924F00BD843C /* FileTableDataSource.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {973, 507}}";
+			sepNavSelRange = "{441, 0}";
+			sepNavVisRange = "{0, 456}";
+			sepNavWindowFrame = "{{103, 111}, {1186, 737}}";
+		};
+	};
+	EDBD76F60F6A924F00BD843C /* FileTableDataSource.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {973, 2204}}";
+			sepNavSelRange = "{751, 0}";
+			sepNavVisRange = "{539, 473}";
+			sepNavVisRect = "{{0, 740}, {697, 436}}";
+			sepNavWindowFrame = "{{288, 136}, {943, 722}}";
+		};
+	};
+	EDCBE5B70FCAB7FF00355039 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EDEE35D80F7288E200E2CA39 /* BrightnessNeuron.m */;
+		name = "BrightnessNeuron.m: 32";
+		rLen = 0;
+		rLoc = 485;
+		rType = 0;
+		vrLen = 345;
+		vrLoc = 150;
+	};
+	EDCBE5ED0FCABAB300355039 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EDD723840F80DA4B00F422A9 /* ImageIntensity.h */;
+		name = "ImageIntensity.h: 24";
+		rLen = 15;
+		rLoc = 448;
+		rType = 0;
+		vrLen = 469;
+		vrLoc = 0;
+	};
+	EDCBE5EE0FCABAB300355039 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EDBD76F50F6A924F00BD843C /* FileTableDataSource.h */;
+		name = "FileTableDataSource.h: 21";
+		rLen = 0;
+		rLoc = 441;
+		rType = 0;
+		vrLen = 456;
+		vrLoc = 0;
+	};
+	EDCBE5F00FCABAB300355039 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EDD723850F80DA4B00F422A9 /* ImageIntensity.m */;
+		name = "ImageIntensity.m: 16";
+		rLen = 0;
+		rLoc = 251;
+		rType = 0;
+		vrLen = 550;
+		vrLoc = 1809;
+	};
+	EDCC85810FB34C5400713E84 /* NeuronsLayer.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1052, 507}}";
+			sepNavSelRange = "{473, 129}";
+			sepNavVisRange = "{0, 609}";
+			sepNavWindowFrame = "{{79, 275}, {1186, 737}}";
+		};
+	};
+	EDCC85820FB34C5400713E84 /* NeuronsLayer.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1268, 5972}}";
+			sepNavSelRange = "{8281, 0}";
+			sepNavVisRange = "{3593, 765}";
+			sepNavWindowFrame = "{{61, 244}, {1186, 737}}";
+		};
+	};
+	EDD723840F80DA4B00F422A9 /* ImageIntensity.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {973, 507}}";
+			sepNavSelRange = "{448, 15}";
+			sepNavVisRange = "{0, 469}";
+		};
+	};
+	EDD723850F80DA4B00F422A9 /* ImageIntensity.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1020, 2356}}";
+			sepNavSelRange = "{251, 0}";
+			sepNavVisRange = "{1809, 550}";
+			sepNavWindowFrame = "{{215, 87}, {943, 722}}";
+		};
+	};
+	EDD723DD0F80F25F00F422A9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EDD723DE0F80F25F00F422A9 /* ImageIntensity.s */;
+		name = "ImageIntensity.s: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 455;
+		vrLoc = 3366;
+	};
+	EDD723DE0F80F25F00F422A9 /* ImageIntensity.s */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.asm;
+		name = ImageIntensity.s;
+		path = "/Users/sonicx/Documents/MY DOCUMENTS/Аспирантура/нейросетевой детектор краев OBJC/NeuralEdge/build/NeuralEdge.build/Debug/NeuralEdge.build/Objects-normal/i386/ImageIntensity.s";
+		sourceTree = "<absolute>";
+	};
+	EDDB64A30FA872C1008E3BBC /* StartController.m:34 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = ED2F1E6C0F73EBC500BB6F2B /* StartController.m */;
+		functionName = "-startNetwork:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 34;
+		location = NeuralEdge;
+		modificationTime = 266334340.124567;
+		originalNumberOfMultipleMatches = 0;
+		state = 2;
+	};
+	EDDB64D40FA87717008E3BBC /* BrightnessSegmentation.m:76 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = EDEE35C10F72835B00E2CA39 /* BrightnessSegmentation.m */;
+		functionName = "-segmentation:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 76;
+		location = NeuralEdge;
+		modificationTime = 266334340.124593;
+		originalNumberOfMultipleMatches = 0;
+		state = 2;
+	};
+	EDDB64E30FA87772008E3BBC /* BrightnessSegmentation.m:105 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = EDEE35C10F72835B00E2CA39 /* BrightnessSegmentation.m */;
+		functionName = "-segmentation:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 105;
+		location = NeuralEdge;
+		modificationTime = 266334340.124692;
+		originalNumberOfMultipleMatches = 0;
+		state = 2;
+	};
+	EDDB64E50FA87787008E3BBC /* BrightnessSegmentation.m:122 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = EDEE35C10F72835B00E2CA39 /* BrightnessSegmentation.m */;
+		functionName = "-segmentation:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 122;
+		location = NeuralEdge;
+		modificationTime = 266334340.124775;
+		originalNumberOfMultipleMatches = 0;
+		state = 2;
+	};
+	EDDB64E80FA877A1008E3BBC /* BrightnessSegmentation.m:113 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = EDEE35C10F72835B00E2CA39 /* BrightnessSegmentation.m */;
+		functionName = "-segmentation:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 113;
+		location = NeuralEdge;
+		modificationTime = 266334340.124858;
+		originalNumberOfMultipleMatches = 0;
+		state = 2;
+	};
+	EDDB64EC0FA877B9008E3BBC /* BrightnessSegmentation.m:112 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = EDEE35C10F72835B00E2CA39 /* BrightnessSegmentation.m */;
+		functionName = "-segmentation:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 112;
+		location = NeuralEdge;
+		modificationTime = 266334340.12494;
+		originalNumberOfMultipleMatches = 0;
+		state = 2;
+	};
+	EDDB65040FA879F4008E3BBC /* BrightnessSegmentation.m:236 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = EDEE35C10F72835B00E2CA39 /* BrightnessSegmentation.m */;
+		functionName = "-trainNetwork:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 236;
+		location = NeuralEdge;
+		modificationTime = 266334340.125022;
+		originalNumberOfMultipleMatches = 0;
+		state = 2;
+	};
+	EDDB65120FA88171008E3BBC /* BrightnessSegmentation.m:32 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = EDEE35C10F72835B00E2CA39 /* BrightnessSegmentation.m */;
+		functionName = "-initWithWindowSize:andSegmentsCount:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 32;
+		location = NeuralEdge;
+		modificationTime = 266334340.1251031;
+		originalNumberOfMultipleMatches = 0;
+		state = 2;
+	};
+	EDDB65200FA88227008E3BBC /* BrightnessSegmentation.m:111 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = EDEE35C10F72835B00E2CA39 /* BrightnessSegmentation.m */;
+		functionName = "-segmentation:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 111;
+		location = NeuralEdge;
+		modificationTime = 266334340.125185;
+		originalNumberOfMultipleMatches = 0;
+		state = 2;
+	};
+	EDDB65450FA887EE008E3BBC /* StartController.m:34 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = ED2F1E6C0F73EBC500BB6F2B /* StartController.m */;
+		functionName = "-startNetwork:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 34;
+		location = NeuralEdge;
+		modificationTime = 266334349.7025;
+		originalNumberOfMultipleMatches = 0;
+		state = 1;
+	};
+	EDDB659F0FA88D75008E3BBC /* BrightnessSegmentation.m:48 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = EDEE35C10F72835B00E2CA39 /* BrightnessSegmentation.m */;
+		functionName = "-segmentation:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 48;
+		location = NeuralEdge;
+		modificationTime = 266334340.125283;
+		originalNumberOfMultipleMatches = 0;
+		state = 2;
+	};
+	EDDB65C80FA89134008E3BBC /* BrightnessSegmentation.m:151 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = EDEE35C10F72835B00E2CA39 /* BrightnessSegmentation.m */;
+		functionName = "-trainNetwork:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 151;
+		location = NeuralEdge;
+		modificationTime = 266334340.125362;
+		originalNumberOfMultipleMatches = 0;
+		state = 2;
+	};
+	EDDB65D20FA891C8008E3BBC /* BrightnessSegmentation.m:185 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = EDEE35C10F72835B00E2CA39 /* BrightnessSegmentation.m */;
+		functionName = "-trainNetwork:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 185;
+		location = NeuralEdge;
+		modificationTime = 266334340.125442;
+		originalNumberOfMultipleMatches = 0;
+		state = 2;
+	};
+	EDDB65D80FA891DA008E3BBC /* BrightnessSegmentation.m:208 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = EDEE35C10F72835B00E2CA39 /* BrightnessSegmentation.m */;
+		functionName = "-trainNetwork:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 208;
+		location = NeuralEdge;
+		modificationTime = 266334340.125523;
+		originalNumberOfMultipleMatches = 0;
+		state = 2;
+	};
+	EDDB65DA0FA891E5008E3BBC /* BrightnessSegmentation.m:215 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = EDEE35C10F72835B00E2CA39 /* BrightnessSegmentation.m */;
+		functionName = "-trainNetwork:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 215;
+		location = NeuralEdge;
+		modificationTime = 266334340.125606;
+		originalNumberOfMultipleMatches = 0;
+		state = 2;
+	};
+	EDDB65E00FA89239008E3BBC /* BrightnessSegmentation.m:217 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = EDEE35C10F72835B00E2CA39 /* BrightnessSegmentation.m */;
+		functionName = "-trainNetwork:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 217;
+		modificationTime = 266334340.125689;
+		originalNumberOfMultipleMatches = 0;
+		state = 2;
+	};
+	EDDB65E20FA8923B008E3BBC /* BrightnessSegmentation.m:214 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = EDEE35C10F72835B00E2CA39 /* BrightnessSegmentation.m */;
+		functionName = "-trainNetwork:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 214;
+		location = NeuralEdge;
+		modificationTime = 266334340.125771;
+		originalNumberOfMultipleMatches = 0;
+		state = 2;
+	};
+	EDDB65F10FA893A7008E3BBC /* BrightnessSegmentation.m:153 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = EDEE35C10F72835B00E2CA39 /* BrightnessSegmentation.m */;
+		functionName = "-trainNetwork:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 153;
+		location = NeuralEdge;
+		modificationTime = 266334340.1258531;
+		originalNumberOfMultipleMatches = 0;
+		state = 2;
+	};
+	EDEE35BB0F7280E500E2CA39 /* NeuralNetworkEdgeDetector.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1159, 635}}";
+			sepNavSelRange = "{654, 0}";
+			sepNavVisRange = "{0, 748}";
+			sepNavWindowFrame = "{{179, 177}, {1218, 786}}";
+		};
+	};
+	EDEE35BC0F7280E500E2CA39 /* NeuralNetworkEdgeDetector.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {973, 816}}";
+			sepNavSelRange = "{1126, 0}";
+			sepNavVisRange = "{300, 839}";
+			sepNavWindowFrame = "{{179, 177}, {1218, 786}}";
+		};
+	};
+	EDEE35C00F72835B00E2CA39 /* BrightnessSegmentation.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {973, 532}}";
+			sepNavSelRange = "{431, 41}";
+			sepNavVisRange = "{0, 709}";
+			sepNavWindowFrame = "{{415, 106}, {943, 722}}";
+		};
+	};
+	EDEE35C10F72835B00E2CA39 /* BrightnessSegmentation.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1379, 5655}}";
+			sepNavSelRange = "{6419, 22}";
+			sepNavVisRange = "{6074, 550}";
+			sepNavWindowFrame = "{{94, 91}, {1186, 737}}";
+		};
+	};
+	EDEE35D70F7288E200E2CA39 /* BrightnessNeuron.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {973, 507}}";
+			sepNavSelRange = "{248, 100}";
+			sepNavVisRange = "{0, 354}";
+		};
+	};
+	EDEE35D80F7288E200E2CA39 /* BrightnessNeuron.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {973, 684}}";
+			sepNavSelRange = "{485, 0}";
+			sepNavVisRange = "{150, 345}";
+			sepNavWindowFrame = "{{15, 136}, {1186, 737}}";
+		};
+	};
+}
